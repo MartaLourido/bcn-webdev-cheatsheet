@@ -4,7 +4,7 @@
 Brief description of the project
 
 
-## MVP (DOM - CANVAS)
+## MVP 
 MVP definition, deliverables.
 
 
@@ -12,7 +12,7 @@ MVP definition, deliverables.
 
 
 ## Data structure
-Classes and methods definition.
+Classes, properties and methods definition.
 
 
 ## States y States Transitions
